@@ -1,3 +1,9 @@
+<!-- 
+Ranjith Kumar Veesam | IoT Engineer | Smart Infrastructure Developer | Electric Vehicle Technology
+GitHub Profile - Portfolio showcasing IoT projects, Power Electronics, Smart Cities
+Keywords: Ranjith Kumar Veesam, IoT, Smart Street Lamp, Electric Vehicles, Power Electronics, Embedded Systems, Smart Dustbin, Quantum Leaf Energy Tree, Smart Bio-sensing
+-->
+
 # 👋 Hi, I'm Ranjith Kumar Veesam
 
 <div align="center">
@@ -117,3 +123,28 @@ Creating **sustainable**, **intelligent solutions** that bridge the gap between 
 ![Profile Views](https://komarev.com/ghpvc/?username=Smart-chinnodu&color=brightgreen)
 
 </div>
+
+---
+
+## 🌐 My Portfolio & Projects Online
+
+**Visit my portfolio website:** https://smart-chinnodu.github.io/portfolio-website/
+
+This GitHub profile showcases the complete portfolio of **Ranjith Kumar Veesam**, an IoT engineer and smart infrastructure developer from India specializing in:
+- Smart City Solutions
+- IoT Systems Architecture  
+- Power Electronics & Renewable Energy
+- Electric Vehicle Technology
+- Embedded Systems Development
+
+## 📚 Complete Project List
+
+1. **Multifunctional Smart Street Lamp** - IoT-enabled street infrastructure
+2. **Smart Bio-sensing Seatbelt** - Vehicle safety with health monitoring
+3. **Quantum Leaf Energy Tree** - Renewable energy generation system
+4. **Smart Robotic Dustbin** - Intelligent waste management
+5. **Smart Infrastructure Suite** - Connected urban solutions
+
+---
+
+**Searching for:** Ranjith Kumar Veesam | IoT Engineer | Smart Infrastructure | Power Electronics | Embedded Systems
